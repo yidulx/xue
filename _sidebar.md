@@ -4,6 +4,7 @@
 
 - 官方文档
 
+  - [官方通知](tongzhi.md)
   - [官方公告](gonggao.md)
   - [资源分享](ziyuan.md)
 
